@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'ais',
     'django_bootstrap5',
     'django_seed',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
